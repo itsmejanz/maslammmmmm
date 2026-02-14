@@ -1,10 +1,11 @@
-function clicks() {
+Akungku clicks() {
     $('#div1').hide();
     $('#div2').show();
     $('#div2').addClass("fadeinv2");
         
     var typed = new Typed('.katakata', {
-        strings: ["Cuma mau bilang", "Selamat Sore Sayangku", "Aku Sayang Banget Sama Kamu", "I Love You Annisa Aulia"],
+        strings: ["Cuma mau bilang", "Selam malam", "ree gatau mau ngapain jujurr", "Happy Valentine's Dayy Weta Diyana Luna Liya"],
         typeSpeed: 70
     });
+
 }
