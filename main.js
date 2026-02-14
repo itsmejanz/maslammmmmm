@@ -1,4 +1,4 @@
-gatau clicks() {
+function clicks() {
     $('#div1').hide();
     $('#div2').show();
     $('#div2').addClass("fadeinv2");
@@ -9,6 +9,7 @@ gatau clicks() {
     });
 
 }
+
 
 
 
